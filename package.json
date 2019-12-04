@@ -1,0 +1,14 @@
+{
+  "name": "howler-plugin-pitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/howler": "^2.1.1",
+    "howler": "^2.1.2",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^1.18.2",
+    "typescript": "^3.7.2"
+  },
+  "browserslist": ["last 1 Chrome versions"]
+}
